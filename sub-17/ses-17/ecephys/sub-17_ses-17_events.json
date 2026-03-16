@@ -1,0 +1,86 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "fixcross_time": {
+        "Description": "fix cross time. TTL=11"
+    },
+    "ExperimentID": {
+        "Description": "EXPERIMENT_ID"
+    },
+    "trial_num": {
+        "Description": "trial nr"
+    },
+    "boundary_type": {
+        "Description": "1=no boundary (NB), 2=soft boundary (SB), 3=hard boundary (HB)"
+    },
+    "key": {
+        "Description": "left = 1, right = 2"
+    },
+    "resp_value": {
+        "Description": "range = 2-7, -1=timeout"
+    },
+    "leftright": {
+        "Description": "Left = 1, Right = 2"
+    },
+    "accuracy": {
+        "Description": "correct = 2, incorrect 1, no response = 0"
+    },
+    "confidence": {
+        "Description": "3 = high, 2 = medium, 1 = low"
+    },
+    "RT": {
+        "Description": "Reaction time"
+    },
+    "frameName": {
+        "Description": "name of image shown"
+    },
+    "stimuli_type": {
+        "Description": "target (ground truth) = 1, foil = 0"
+    },
+    "old_new": {
+        "Description": "Response Old = 2, New = 1"
+    },
+    "boundary1_time": {
+        "Description": "time of first boundary (0 if it does not exist; absolute timestamp). For no boundary (NB), this is equal to 4s (same as HB). For hard boundary (HB) clips, this is the time of the HB. For soft boundary (SB) clips, this is the time of the first SB."
+    },
+    "boundary2_time": {
+        "Description": "time of second boundary (0 if it does not exist; absolute timestamp). For HB clips, this is the time of first SB boundary. For SB clips, this is second SB boundary in the clip."
+    },
+    "boundary3_time": {
+        "Description": "time of third boundary (0 if it does not exist; absolute timestamp). For HB clips, thisis the time of the second SB boundary. For SB clips, this is the third SB boundary of the clip."
+    },
+    "stimCategory": {
+        "Description": "1=no boundary (NB), 2=soft boundary (SB), 3=hard boundary (HB). Note - HB clips can, in addition, also contain SB boundaries."
+    },
+    "Clip_name": {
+        "Description": "video clip shown during this trial"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "timediscrimination_table": "The 'timediscrimination_table' table in the NWB file.",
+            "recognition_table": "The 'recognition_table' table in the NWB file.",
+            "encoding_table": "The 'encoding_table' table in the NWB file."
+        },
+        "HED": {
+            "timediscrimination_table": "Time-interval",
+            "recognition_table": "Time-interval",
+            "encoding_table": "Time-interval"
+        }
+    },
+    "timediscrimination_table": {
+        "Description": "intervals for time discrimination task"
+    },
+    "recognition_table": {
+        "Description": "intervals for scene recognition task"
+    },
+    "encoding_table": {
+        "Description": "intervals for the encoding task"
+    }
+}

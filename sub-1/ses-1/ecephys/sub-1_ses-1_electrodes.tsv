@@ -1,0 +1,11 @@
+name	probe_name	x	y	z	hemisphere	impedance	shank_id	location
+e000	NLX-microwires-177	24.75	-1.87	-20.98	n/a	n/a	NLX-microwires-177	amygdala_right
+e001	NLX-microwires-178	24.75	-1.87	-20.98	n/a	n/a	NLX-microwires-178	amygdala_right
+e002	NLX-microwires-179	24.75	-1.87	-20.98	n/a	n/a	NLX-microwires-179	amygdala_right
+e003	NLX-microwires-180	24.75	-1.87	-20.98	n/a	n/a	NLX-microwires-180	amygdala_right
+e004	NLX-microwires-182	24.75	-1.87	-20.98	n/a	n/a	NLX-microwires-182	amygdala_right
+e005	NLX-microwires-183	24.75	-1.87	-20.98	n/a	n/a	NLX-microwires-183	amygdala_right
+e006	NLX-microwires-184	24.75	-1.87	-20.98	n/a	n/a	NLX-microwires-184	amygdala_right
+e007	NLX-microwires-190	34.97	-15.59	-15.15	n/a	n/a	NLX-microwires-190	hippocampus_right
+e008	NLX-microwires-191	34.97	-15.59	-15.15	n/a	n/a	NLX-microwires-191	hippocampus_right
+e009	NLX-microwires-192	34.97	-15.59	-15.15	n/a	n/a	NLX-microwires-192	hippocampus_right

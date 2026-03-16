@@ -1,0 +1,28 @@
+{
+    "Name": "Data for: Neurons detect cognitive boundaries to structure episodic memories in humans (Zheng et al., 2022, Nat Neuro in press)",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This dataset contains human single-neuron data recorded from the medial temporal lobe (MTL) during a set of experiments to explore the role of neurons that respond to cognitive boundaries. This dataset accompanies the paper cited below. Example code on how to plot this data can be found at https://github.com/rutishauserlab/cogboundary-zheng .\n\nReference (to be updated upon publication):  Cognitive boundary signals in the human medial temporal lobe shape episodic memory representation. Jie Zheng, Andrea G\u00f3mez Palacio Schjetnan, Mar Yebra, Clayton Mosher, Suneil Kalia, Taufik A. Valiante, Adam N. Mamelak, Gabriel Kreiman, Ueli Rutishauser. bioRxiv 2021.01.16.426538.  [Nat Neuro, in press, 2022]",
+    "DatasetType": "raw",
+    "Authors": [
+        "Zheng, Jie",
+        "Schjetnan, Andrea",
+        "Yebra, Mar",
+        "Gomes, Bernard",
+        "Mosher, Clayton",
+        "Kalia, Suneil",
+        "Valiante, Taufik",
+        "Mamelak, Adam",
+        "Kreiman, Gabriel",
+        "Rutishauser, Ueli"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
