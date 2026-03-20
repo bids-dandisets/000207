@@ -1,20 +1,20 @@
-participant_id	species	sex
-sub-1	Homo sapiens	M
-sub-10	Homo sapiens	F
-sub-11	Homo sapiens	F
-sub-12	Homo sapiens	F
-sub-13	Homo sapiens	F
-sub-14	Homo sapiens	F
-sub-15	Homo sapiens	M
-sub-16	Homo sapiens	M
-sub-17	Homo sapiens	M
-sub-18	Homo sapiens	F
-sub-19	Homo sapiens	F
-sub-2	Homo sapiens	F
-sub-3	Homo sapiens	F
-sub-4	Homo sapiens	M
-sub-5	Homo sapiens	M
-sub-6	Homo sapiens	M
-sub-7	Homo sapiens	F
-sub-8	Homo sapiens	M
-sub-9	Homo sapiens	F
+participant_id	original_participant_id	species	sex
+sub-1	sub-1	Homo sapiens	M
+sub-10	sub-10	Homo sapiens	F
+sub-11	sub-11	Homo sapiens	F
+sub-12	sub-12	Homo sapiens	F
+sub-13	sub-13	Homo sapiens	F
+sub-14	sub-14	Homo sapiens	F
+sub-15	sub-15	Homo sapiens	M
+sub-16	sub-16	Homo sapiens	M
+sub-17	sub-17	Homo sapiens	M
+sub-18	sub-18	Homo sapiens	F
+sub-19	sub-19	Homo sapiens	F
+sub-2	sub-2	Homo sapiens	F
+sub-3	sub-3	Homo sapiens	F
+sub-4	sub-4	Homo sapiens	M
+sub-5	sub-5	Homo sapiens	M
+sub-6	sub-6	Homo sapiens	M
+sub-7	sub-7	Homo sapiens	F
+sub-8	sub-8	Homo sapiens	M
+sub-9	sub-9	Homo sapiens	F
